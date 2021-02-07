@@ -1,0 +1,70 @@
+.col-4 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+mat-icon {
+    color: #A57D24;
+}
+
+.items-contact {
+    display: flex;
+    padding: 2%;
+}
+
+.items-contact span {
+    color: white;
+    font-family: 'futuraLi';
+    margin-left: 1%;
+}
+
+.container-contact {
+    height: 20vh;
+    background: #1A2227;
+    margin-top: 2%;
+}
+
+.title-services {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-services h2 {
+    font: normal normal bold 40px/40px futuraB;
+    letter-spacing: 0px;
+    color: #1A2227;
+    opacity: 1;
+}
+
+.title-services p {
+    color: #AAAAAA;
+}
+
+.inputs {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5%;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.button-container {
+    display: flex;
+    padding-right: 15%;
+    justify-content: center;
+}
+
+.btn {
+    width: 20%;
+    background: #A57D24;
+    border-radius: 20px;
+    color: white;
+}

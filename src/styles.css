@@ -10,6 +10,27 @@
      height: 100vh;
  }
  
+ .slider-plans {
+     background: transparent url('assets/img/hotel1.jpg')0% 0% no-repeat padding-box;
+     display: flex;
+     justify-content: center;
+     height: 59vh;
+     align-items: center;
+     flex-direction: column;
+     color: white;
+ }
+ 
+ .slider-plans h1 {
+     font-size: 6rem;
+     font-family: futuraBL;
+ }
+ 
+ .slider-plans p {
+     width: 50%;
+     text-align: center;
+     font-family: futuraLi;
+ }
+ 
  @font-face {
      font-family: 'futura';
      src: url('assets/fonts/futura-pt-demi.otf') format("opentype");
@@ -34,5 +55,13 @@
      font-family: 'futuraLi';
      src: url('assets/fonts/futuralightbt.ttf') format("opentype");
  }
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+ 
+ html,
+ body {
+     height: 100%;
+ }
+ 
+ body {
+     margin: 0;
+     font-family: Roboto, "Helvetica Neue", sans-serif;
+ }
