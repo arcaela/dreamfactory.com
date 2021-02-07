@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'futura';
+ }
+ 
+ .container-fluid {
+     background: transparent url('assets/img/slider.jpg')0% 0% no-repeat padding-box;
+     height: 100vh;
+ }
+ 
+ @font-face {
+     font-family: 'futura';
+     src: url('assets/fonts/futura-pt-demi.otf') format("opentype");
+ }
+ 
+ @font-face {
+     font-family: 'futuraB';
+     src: url('assets/fonts/FuturaBoldfont.ttf') format("opentype");
+ }
+ 
+ @font-face {
+     font-family: 'futuraL';
+     src: url('assets/fonts/FuturaLightfont.ttf') format("opentype");
+ }
+ 
+ @font-face {
+     font-family: 'futuraBL';
+     src: url('assets/fonts/FuturaBolditalicfont.ttf') format("opentype");
+ }
+ 
+ @font-face {
+     font-family: 'futuraLi';
+     src: url('assets/fonts/futuralightbt.ttf') format("opentype");
+ }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

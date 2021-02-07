@@ -1,0 +1,62 @@
+header {
+    padding-left: 6%;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin-top: 10%;
+}
+
+.text-title p {
+    font: italic normal bold 100px/128px futuraBL;
+}
+
+#point-color {
+    color: #C6A04F;
+}
+
+.subtitle {
+    text-align: justify;
+}
+
+.subtitle p {
+    font: normal normal 300 25px/33px futuraLi;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.card-title h2 {
+    color: #1A2227;
+}
+
+.card-title p {
+    color: #AAAAAA;
+}
+
+.card-container {
+    padding: 5%;
+}
+
+mat-form-field {
+    display: block;
+}
+
+.form {
+    padding: 5%;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    width: 82%;
+    background: #A57D24;
+    border-radius: 20px;
+    color: white;
+}
