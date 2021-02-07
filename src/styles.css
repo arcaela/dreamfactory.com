@@ -8,6 +8,8 @@
  .container-fluid {
      background: transparent url('assets/img/slider.jpg')0% 0% no-repeat padding-box;
      height: 100vh;
+     padding-right: 0px;
+     padding-left: 0px;
  }
  
  .slider-plans {
@@ -29,6 +31,11 @@
      width: 50%;
      text-align: center;
      font-family: futuraLi;
+ }
+ 
+ .row {
+     margin-right: 0px;
+     margin-left: 0px;
  }
  
  @font-face {

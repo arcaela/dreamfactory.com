@@ -79,6 +79,7 @@
     width: 20%;
 }
 
-.img-results {
-    padding: 0% 1%;
+.col-12 {
+    padding-right: 0px;
+    padding-left: 0px;
 }

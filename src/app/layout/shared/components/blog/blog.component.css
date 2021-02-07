@@ -18,7 +18,7 @@
 }
 
 .card-blog {
-    width: 22%;
+    width: 20%;
 }
 
 .img-blog {
@@ -56,6 +56,7 @@
     border-radius: 30px;
     color: white;
     text-align: center;
+    margin-top: 2%;
 }
 
 .tag span {

@@ -58,7 +58,6 @@ mat-icon {
 
 .button-container {
     display: flex;
-    padding-right: 15%;
     justify-content: center;
 }
 
@@ -67,4 +66,9 @@ mat-icon {
     background: #A57D24;
     border-radius: 20px;
     color: white;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: 0px;
 }
